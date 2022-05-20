@@ -1,3 +1,3 @@
-#Lyfe
+# Lyfe
 
-##Made a landing page based on the Lyfe's website
+## Made a landing page based on the Lyfe's website
